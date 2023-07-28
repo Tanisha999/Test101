@@ -1,2 +1,2 @@
 # Test101
-test repo
+test repo for git command demonstration
